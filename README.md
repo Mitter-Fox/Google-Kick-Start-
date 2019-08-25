@@ -21,14 +21,14 @@ Note: Any other pair of cherries not present in the input means that they are co
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is minimum possible sugar content.
 
 ### Limits
-Time limit: 15 seconds per test set.
-Memory limit: 1GB.
-1 ≤ T ≤ 100
-M ≤ N*(N-1)/2
-1 ≤ Ci ≤ N, for all i.
-1 ≤ Di ≤ N, for all i.
-Ci ≠ Di, for all i.
-Every {Ci, Di} is distinct.
+- Time limit: 15 seconds per test set.
+- Memory limit: 1GB.
+- 1 ≤ T ≤ 100
+- M ≤ N*(N-1)/2
+- 1 ≤ Ci ≤ N, for all i.
+- 1 ≤ Di ≤ N, for all i.
+- Ci ≠ Di, for all i.
+- Every {Ci, Di} is distinct.
 
 ### Test set 1 (Visible)
 1 ≤ N ≤ 100.
