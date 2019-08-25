@@ -26,7 +26,7 @@ Memory limit: 1GB.<br />
 **M ≤ N\*(N-1)/2**<br />
 1 ≤ **Ci ≤ N**, for all i<br />
 1 ≤ **Di ≤ N**, for all i.<br />
-**Ci ≠ Di**, for all i.<br />
+**Ci ≠ Di**, for all i.<br /> 
 Every **{Ci, Di}** is distinct.<br />
 
 ### Test set 1 (Visible)
