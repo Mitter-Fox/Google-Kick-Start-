@@ -31,17 +31,17 @@ For each test case, output one line containing Case #x: y, where x is the test c
 - Every {Ci, Di} is distinct.
 
 ### Test set 1 (Visible)
-1 ≤ N ≤ 100.
-0 ≤ M ≤ 100.
+- 1 ≤ N ≤ 100.
+- 0 ≤ M ≤ 100.
 
 ### Test set 2 (Hidden)
 For at least 90% of the test cases:
-1 ≤ N ≤ 1000.
-0 ≤ M ≤ 1000.
+- 1 ≤ N ≤ 1000.
+- 0 ≤ M ≤ 1000.
 
 ### For all test cases:
-1 ≤ N ≤ 105.
-0 ≤ M ≤ 105.
+- 1 ≤ N ≤ 10^5.
+- 0 ≤ M ≤ 10^5.
 
 ### Sample
 
